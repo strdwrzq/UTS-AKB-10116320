@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+
+    <string name="page1">Satria Dwi Rizqi</string>
+    <string name="page2">Ujian Tengah Semester</string>
+    <string name="page3">Aplikasi Untuk Menampilkan Profil, Kontak, dan Daftar Teman </string>
+    <string name="page4">Terimakasih</string>
+
+    // TODO: 22/02/18
+    <string name="profile">Profile</string>
+    <string name="contact">Contact</string>
+    <string name="friend">Friend List</string>
+</resources>
